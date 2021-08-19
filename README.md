@@ -1,4 +1,4 @@
-# About crDroid Android Mod Gapps
+# About Android Mod Gapps
 Lightweight Google Gapps with basic features.
 
 # Use project
