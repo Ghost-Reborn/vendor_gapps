@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+|                      App                                     |
+----------------------------------------------------------------
+
+GoogleContactsSyncAdapter - com.google.android.syncadapters.contacts
+
+---------------------------------------------------------------
+|                    Priv-App                                 |
+---------------------------------------------------------------
+
+ConfigUpdater - com.google.android.configupdater
+GmsCoreSetupPrebuilt - com.google.android.gms.setup
+GoogleBackupTransport - com.google.android.backuptransport
+GoogleRestore - com.google.android.apps.restore
+GoogleServicesFramework - com.google.android.gsf
+Phonesky - com.android.vending
+PixelMigrate - com.google.android.apps.pixelmigrate
+PrebuiltGmsCore - com.google.android.gms
+WellbeingPrebuilt - com.google.android.apps.wellbeing
