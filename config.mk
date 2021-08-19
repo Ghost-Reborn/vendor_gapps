@@ -13,6 +13,7 @@ PRODUCT_PACKAGES += \
     GoogleRestore \
     GoogleServicesFramework \
     Phonesky \
+    PixelMigrate \
     PrebuiltGmsCore \
     WellbeingPrebuilt
 
