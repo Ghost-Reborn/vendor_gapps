@@ -8,6 +8,13 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     ConfigUpdater \
+    GoogleContacts \
+    GoogleChrome \
+    TrichromeLibrary \
+    Firefox \
+    Gboard \
+    GCamGo \
+    Phone \
     GmsCoreSetupPrebuilt \
     GoogleBackupTransport \
     GoogleRestore \
@@ -15,7 +22,8 @@ PRODUCT_PACKAGES += \
     Phonesky \
     PixelMigrate \
     PrebuiltGmsCore \
-    WellbeingPrebuilt
+    WellbeingPrebuilt \
+    WebViewGoogle
 
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,$(VENDOR_PATH)/system/etc/default-permissions,system/etc/default-permissions)
